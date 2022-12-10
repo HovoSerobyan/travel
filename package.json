@@ -1,0 +1,15 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://HovoSerobyan.github.io.travel",
+  "scripts": {
+    "deploy": "gh-pages -d project"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
